@@ -1,0 +1,19 @@
+{
+    "name": "Minha PWA",
+    "short_name": "PWA",
+    "description": "Uma Progressive Web App simples",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+    {
+      "src": "",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
